@@ -11,7 +11,7 @@ I'm Aelita, a passionate Junior Frontend Developer on a mission to create beauti
 - 📫 How to reach me:
   - ✉️ [email](aelita.dzhafarova@gmail.com)
   - ✈️ [telegram](https://t.me/aelita_dzhafarova)
-- ⚡ Fun fact: I was running vegan coffee shop ☕️ for +7 years.
+- ⚡ Fun fact: I was running vegan coffee shop ☕️ for 7 years.
 
   
 

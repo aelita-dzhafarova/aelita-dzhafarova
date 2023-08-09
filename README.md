@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on fleshcards application on React<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about coding 💻, tennis 🎾 or vegan cupcakes 🧁<br>📫 How to reach me: [email](aelita.dzhafarova@gmail.com)<br>⚡ Fun fact: I was running vegan coffee shop ☕️ for 7 years.</p>
+<p align="left">🔭 I’m currently working on fleshcards application on React<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about coding 💻, tennis 🎾 or vegan cupcakes 🧁<br>📫 How to reach me: aelita.dzhafarova@gmail.com<br>⚡ Fun fact: I was running vegan coffee shop ☕️ for 7 years.</p>
 
 ###
 
